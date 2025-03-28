@@ -1,5 +1,7 @@
 📸 Image Gallery Generator
+
 🚀 Overview
+
 Image Gallery Generator is a web-based project that dynamically generates an image gallery from provided image URLs. Built with JavaScript and Tailwind CSS, this project allows users to create beautiful galleries effortlessly.
 
 🎯 Features
@@ -7,6 +9,7 @@ Image Gallery Generator is a web-based project that dynamically generates an ima
 ✅ Auto-generates an image gallery from given links
 ✅ Responsive design using Tailwind CSS
 ✅ Lightweight and fast
+
 
 🛠️ Technologies Used
 HTML
